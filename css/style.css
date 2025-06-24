@@ -3,7 +3,16 @@
     --acento: #FF5722;
     --acentoBajo: #E64A19;
     --gris: #546E7A;
+    --bs-link-color-rgb: 108, 79, 238;
+    --bs-link-hover-color-rgb: 108, 79, 238;
 }
+.text-bg-primary{
+    background-color:rgba(52,55,67,1) !important;
+}
+.text-bg-secondary{
+    background-color:rgba(52,55,67,1) !important;
+}
+
 
 em{
     font-style: normal;
